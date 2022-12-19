@@ -1,0 +1,367 @@
+ .u-section-1 {
+  background-image: url("images/img-locations-hotel-teleferic-cu-logo1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 356px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 294px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 225px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 169px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 106px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 640px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 500px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 0;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 500px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 500px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 316px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 400px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: auto;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 474px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 298px;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 808px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 707px;
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 2.8125rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3 .u-list-1 {
+  width: 410px;
+  margin: 20px auto 0 0;
+}
+
+.u-section-3 .u-repeater-1 {
+  grid-template-columns: 100%;
+  min-height: 508px;
+  grid-gap: 0px 0px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 20px 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-weight: 700;
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-text-3 {
+  margin: 20px 35px 0 0;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 20px 0;
+}
+
+.u-section-3 .u-text-4 {
+  font-weight: 700;
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-text-5 {
+  margin: 20px 35px 0 0;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 20px 0;
+}
+
+.u-section-3 .u-text-6 {
+  font-weight: 700;
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-text-7 {
+  margin: 20px 35px 0 0;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 650px;
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-5 {
+  padding: 30px 50px;
+}
+
+.u-section-3 .u-form-1 {
+  height: 453px;
+  width: 527px;
+  margin: 0;
+}
+
+.u-section-3 .u-input-1 {
+  font-size: 1.125rem;
+  text-transform: none;
+}
+
+.u-section-3 .u-input-2 {
+  font-size: 1.125rem;
+  text-transform: none;
+}
+
+.u-section-3 .u-input-3 {
+  font-size: 1.125rem;
+  text-transform: none;
+}
+
+.u-section-3 .u-btn-1 {
+  font-size: 1.125rem;
+  letter-spacing: 3px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 694px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 583px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 2.625rem;
+  }
+
+  .u-section-3 .u-list-1 {
+    width: 363px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-5 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-7 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 536px;
+  }
+
+  .u-section-3 .u-form-1 {
+    width: 417px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    width: 100%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 258px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-right: 230px;
+  }
+
+  .u-section-3 .u-list-1 {
+    width: 300px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 513px;
+  }
+
+  .u-section-3 .u-container-layout-5 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-form-1 {
+    width: 536px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 358px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-right: 70px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-form-1 {
+    width: 520px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 2.125rem;
+  }
+
+  .u-section-3 .u-form-1 {
+    width: 320px;
+  }
+}
